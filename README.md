@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## About
+Repository creates for fast running development process with configuration, which are the same from project to project.
 
-You can use the [editor on GitHub](https://github.com/romankh3/default-template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Added:
+*   maven and gradle templates
+*   Apache 2.0 license
+*   Code of conduct file
+*   Contributing file
+*   template README
+*   Release notes
+*   .gitginore file
+*   Issue templates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Propositions
+If you have ideas of what can be added to `java-repository-template` - welcome!
 
-### Markdown
+## Usage
+to start using this template need to update next places:
+1. choose maven or gradle and remove unneeded data.
+2. update artifactId from `java-repository-template` to specific one.
+3. update name and year fro [LICENSE](LICENSE) part.
+4. update About and Usage parts in README. Remove other projects if wants it.
+5. rename main and test packages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Building
+...
 
-```markdown
-Syntax highlighted code block
+## Release Notes
+Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
-# Header 1
-## Header 2
-### Header 3
+## Contributing
+Please, follow [Contributing](CONTRIBUTING.md) page.
 
-- Bulleted
-- List
+## Code of Conduct
+Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
 
-1. Numbered
-2. List
+## License
+This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romankh3/default-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Also see my other repositories
+*   [image-comparison](https://github.com/romankh3/image-comparison)
+*   [skyscanner-flight-api-client](https://github.com/romankh3/skyscanner-flight-api-client) - Client for a Skyscanner Flight Search API hosted in Rapid API
+*   [Flights Monitoring](https://github.com/romankh3/flights-monitoring) - app for monitoring flights cost based on Skyscanner API
+*   [Raspberry home ecosystem](https://github.com/romankh3/raspberrypi-home-ecosystem) - home ecosystem based on raspberry pi.
+*   [Movie Tracking](https://github.com/romankh3/movietracking) - Simple API for tracking movies with favorite actors for the specific time.
+*   [Tic Tac Toe NxM](https://github.com/romankh3/tictactoe) - Own implementation. For any rectangle and any winner line count. 
